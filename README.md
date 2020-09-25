@@ -11,6 +11,7 @@
 <ul>
     <li> <a href="SpringWebMvc/DispatcherServlet.pdf"> DispatcherServlet.pdf</a></li>
     <li> <a href="SpringWebMvc/Spring_Web_MVC_Configuration.pdf"> Spring Web MVC Configuration.pdf</a> </li>
+    <li> <a href="Java/java기초.pdf"> Java 기초.pdf</a> </li>
 </ul>
 
 References
