@@ -10,7 +10,7 @@
 발표자료
 <ul>
     <li> <a href="SpringWebMvc/DispatcherServlet.pdf"> DispatcherServlet.pdf</a></li>
-    <li> <a href="SpringWebMvc/Spring_Web_MVC_Configuration.pdf.pdf"> Spring Web MVC Configuration.pdf</a> </li>
+    <li> <a href="SpringWebMvc/Spring_Web_MVC_Configuration.pdf"> Spring Web MVC Configuration.pdf</a> </li>
 </ul>
 
 References
@@ -24,7 +24,7 @@ References
 
 발표자료
 <ul>
-    <li> <a href="SpringWebMvc/Spring_Web_MVC_Uses.pdf.pdf"> Spring Web MVC Uses.pdf</a></li>
+    <li> <a href="SpringWebMvc/Spring_Web_MVC_Uses.pdf"> Spring Web MVC Uses.pdf</a></li>
 </ul>
 
 References
