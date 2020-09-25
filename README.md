@@ -3,14 +3,14 @@
 
 ***
 ### (1주차) Spring Web MVC 설정 & Spring Web MVC 동작원리 & Java 기초 
-발표자: 여정민 김희윤 이정민 
+발표자: 여정민 김희윤 이정민 <br>
 날짜: 2020년 9월 17일 목요일 19:00  
 References
 - https://www.inflearn.com/course/%EC%9B%B9-mvc
 - https://opentutorials.org/course/1223
 ***
 ### (2주차) Spring Web MVC 활용 1 & Java 8 
-발표자: 이정민 김도헌
+발표자: 이정민 김도헌 <br>
 날짜: 2020년 9월 24일 목요일 19:00  
 
 References
@@ -19,7 +19,7 @@ References
 
 ***
 ### (3주차) Spring Web MVC 활용 2 & Spring Framework 입문
-발표자: 여정민 이현정
+발표자: 여정민 이현정 <br>
 날짜: 2020년 10월 01일 목요일 19:00  
 
 References
@@ -27,7 +27,7 @@ References
 - https://www.inflearn.com/course/spring_revised_edition
 ***
 ### (4주차) Spring Data JPA & Spring Framework 핵심 기술
-발표자: 여정민 이현정
+발표자: 여정민 이현정 <br>
 날짜: 2020년 10월 18일 목요일 19:00  
 
 References
