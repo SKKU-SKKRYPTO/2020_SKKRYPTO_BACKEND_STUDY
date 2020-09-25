@@ -1,5 +1,4 @@
 # 2020_SKKRYPTO_BACKEND_STUDY
-***
 ### 2020 SKKRYPTO Second semester Backend Study
 ***
 ### (1주차) Spring Web MVC 설정 & Java 기초 
