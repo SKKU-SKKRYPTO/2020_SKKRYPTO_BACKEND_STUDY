@@ -67,6 +67,7 @@ References
 - https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa
 - https://www.inflearn.com/course/spring-framework_core/dashboard
 
+***
 ### (5주차) Spring Framework 핵심 기술 & 객제 지향 원리
 발표자: 여정민 이청수 <br>
 
@@ -84,6 +85,7 @@ References
 - https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-jpa
 - https://www.inflearn.com/course/spring-framework_core/dashboard
 
+***
 ### (6주차) Spring Framework 핵심 기술 - 스프링 컨테이너, 의존 관계 주입, BeanFactory  
 발표자: 여정민 이청수 <br>
 
